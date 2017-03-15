@@ -3,3 +3,6 @@
 Practice using the NYTimes article search api with JQuery.
 Pair programming: Elizabeth Jacobs and Jennifer Wong. 
 Accessing an Api and creating a web window to utilize the API.
+
+
+[link](https://wongjenn.github.io/NYtimes_article_search/)
